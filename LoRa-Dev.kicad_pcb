@@ -5732,6 +5732,18 @@
 		(layer "Edge.Cuts")
 		(uuid "7be96520-8f25-4268-967b-c881fd2016e8")
 	)
+	(gr_text "LoRa126XF30\nDev Board 1.0"
+		(at 124 96.5 0)
+		(layer "B.SilkS")
+		(uuid "69c80355-9457-41a9-a2ad-46e9f1ad496e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 146.275 61)
 		(end 139.5 61)
