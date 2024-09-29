@@ -5440,7 +5440,7 @@
 				)
 			)
 		)
-		(property "Value" "1k5"
+		(property "Value" "4k7"
 			(at 120.65 139.7 90)
 			(effects
 				(font
@@ -5840,7 +5840,7 @@
 				)
 			)
 		)
-		(property "Value" "4k7"
+		(property "Value" "1k5"
 			(at 120.65 147.32 90)
 			(effects
 				(font
