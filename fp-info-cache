@@ -1,4 +1,4 @@
-23844812802870220
+23844812860951793
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64708,12 +64708,12 @@ LoRa126XF30
 16
 16
 LoRa-Dev
-RFM95W
+RFM95PW
 
 
 0
-16
-16
+17
+17
 LoRa-Dev
 RPi_Pico
 
