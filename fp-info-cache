@@ -1,4 +1,4 @@
-23839629857461081
+23844812860951793
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64693,6 +64693,27 @@ Yellow 5381 Series LED
 0
 2
 2
+LoRa-Dev
+E22-900M30S-SX1262
+E22-900M30S-SX1262 LGA package 22 pins
+E22-900M30S-SX1262 LGA 22 pins
+0
+22
+22
+LoRa-Dev
+LoRa126XF30
+
+
+0
+16
+16
+LoRa-Dev
+RFM95PW
+
+
+0
+17
+17
 LoRa-Dev
 RPi_Pico
 
